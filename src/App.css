@@ -1,0 +1,18 @@
+.App{
+    text-align: center;
+}
+#client{
+    text-align: left;
+}
+#project{
+    text-align: left;
+    border-bottom: 5px;
+    border-bottom-color: black;
+
+}
+.bold{
+    font-weight: bold;
+}
+.button{
+    align-content: center;
+}
